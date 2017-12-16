@@ -112,7 +112,7 @@ join_domain ()
 check_supported_os
 get_domain_informaion
 nm_config
-lightdm_config
 install_pbis
 config_pbis
 join_domain
+lightdm_config
