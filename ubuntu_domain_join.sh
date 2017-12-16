@@ -16,7 +16,7 @@ NC='\033[0m'
 
 # User Validation
 if [ "$(id -u)" != "0" ]; then
-	echo -e "${RED}ERROR:${NC} This script must be run as root" ;
+	echo "This script must be run as root" ;
 	exit 1;
 fi
 
