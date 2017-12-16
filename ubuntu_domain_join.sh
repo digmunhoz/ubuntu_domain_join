@@ -3,7 +3,7 @@
 clear
 
 # Variables definition
-LOG=/tmp/ubuntu_ad_join.log
+LOG=/tmp/linux_ad_join.log
 LIGHTDM_FILE=/usr/share/lightdm/lightdm.conf.d/50-ubuntu.conf
 PBIS_URL=https://github.com/BeyondTrust/pbis-open/releases/download/8.5.7/pbis-open-8.5.7.385.linux.x86_64.deb.sh
 PBIS_BIN=/opt/pbis/bin/domainjoin-cli
